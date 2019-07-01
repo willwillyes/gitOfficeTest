@@ -1,1 +1,2 @@
 001:add config.txt from github sys
+002:edit file from pc 2019-07-01 14:40
