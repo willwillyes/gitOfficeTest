@@ -3,3 +3,8 @@
 
 $version = "1.0";
 $author = "will";
+
+function test()
+{
+  echo "this is a test function";
+}
